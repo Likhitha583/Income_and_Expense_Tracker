@@ -1,4 +1,5 @@
 # Income_and_Expense_Tracker
+**Live Demo**: [Open Project] https://share.google/vrHG0HgwEWHRapsSI
 # 💰 Smart Expense Tracker Dashboard
 ## 📌 Project Overview
 A mobile-friendly web application to track daily expenses, manage income, and visualize financial data using an interactive dashboard.
@@ -17,7 +18,7 @@ This project focuses on usability, real-time insights, and a clean UI design, ma
 - Category & Subcategory support
 - Income / Expense tracking
 - Automatic date handling
-### 🔍 Search & Filters
+### 🔍 Search, Sort & Filters
 - Search by category
 - Filter by date
 - Filter by date range
